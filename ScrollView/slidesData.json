@@ -1,0 +1,20 @@
+{
+    "slides":[
+        {
+            "imgName": "img1",
+            "headline": "header 1",
+            "text": "text 1 "
+        },
+             {
+            "imgName": "img2",
+             "headline": "header 2",
+             "text": "text 2"
+        },
+        {
+            "imgName": "img3",
+            "headline": "header 3",
+            "text": "text 3 "
+        }
+    ]
+
+}
