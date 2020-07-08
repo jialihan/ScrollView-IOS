@@ -6,7 +6,7 @@ scrollview supports horizontal swipe, and each subview with auto layout
 
 ## 2. ScrollView with AutoLayout in Storyboard
 
-<img width="334"  height="709" src="/cover2.png">
+<img width="267"  height="567" src="/cover2.png">
 
 #### Add ScrollView to StoryBoard
 set 4 anchor constraints to scrollView related to our main view
