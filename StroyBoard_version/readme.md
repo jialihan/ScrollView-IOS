@@ -1,13 +1,6 @@
-# ScrollView-IOS- two project
-## 1. Programmatically to build the ScrollView
-scrollview supports horizontal swipe, and each subview with auto layout
 
-<img width="213"  height="372" src="/cover.png">
 
-## 2. ScrollView with AutoLayout in Storyboard
-
-<img width="334"  height="709" src="/cover2.png">
-
+[]
 #### Add ScrollView to StoryBoard
 set 4 anchor constraints to scrollView related to our main view
 Here use whole screen as example, you can adjust distance on your own.
